@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hey, I'm Safdar Munir 👋
 
-<!--
-**safdar1234k/safdar1234k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building real AI, automation, and programming skills from zero — no CS degree, no shortcuts, just discipline.
 
-Here are some ideas to get you started:
+🚀 **Currently:** Week 4 of my AI Skills Journey — moving from learning to building a real portfolio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 **What I've built so far:**
+- 6 automation workflows (Zapier, Make.com) — including AI-powered content generation and lead collection systems
+- Python projects — calculator, file organizer, live API integrations, offline chatbot with 3000 patterns
+- Self-test scores climbing every week: 78 → 86 → 90
+
+📂 **Main project:** [AI-Skills-Journey](https://github.com/safdar1234k/AI-Skills-Journey) — my full daily progress, documented from Day 1
+
+📍 Based in Lakki Marwat, KPK, Pakistan
+
+📫 Connect with me on www.linkedin.com/in/safdar-munir-7a0b833a2
+
+---
+*Started from zero. Building toward everything.*
